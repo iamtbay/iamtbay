@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamtbay
-- 👨 🏼‍💻Web developer
+- :technologist:	Web Developer
 - 📍 Finland
 
 ## Languages and Tools
