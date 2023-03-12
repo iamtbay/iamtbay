@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @iamtbay
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning backend w/ nodejs
+- 👨 🏼‍💻Web developer
+- 📍 Finland
+
+## Languages and Tools
+
 
 <!---
 iamtbay/iamtbay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
