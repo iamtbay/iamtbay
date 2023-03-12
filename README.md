@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iamtbay
 - :technologist:	Web Developer
+- :books:	Currently I'm working Full-Stack Projects(Node.js,React.js,MongoDB)
 - 📍 Finland
 
-## Languages and Tools
 
 
 <!---
