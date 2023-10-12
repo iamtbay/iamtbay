@@ -3,7 +3,7 @@
 - :books:	Currently I'm working on Full-Stack Projects
   - Backend: Golang and Node.js
   - Frontend: ReactJS, NextJS
-  
+  - Database: MongoDB, PostgreSQL, Redis
 - 📍 Finland
 
 
