@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @iamtbay
 - :technologist:	Back-end focused Full-Stack Developer
-- :books:	Currently I'm working Full-Stack Projects
+- :books:	Currently I'm working on Full-Stack Projects
   - Backend: Golang and Node.js
   - Frontend: ReactJS, NextJS
-  - 
+  
 - 📍 Finland
 
 
