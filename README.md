@@ -4,7 +4,6 @@
   - Backend: Golang and Node.js
   - Frontend: CSS, SASS, Javascript, TypeScript, ReactJS, NextJS
   - Database: MongoDB, PostgreSQL, Redis
-- 📍 Finland
 
 
 
